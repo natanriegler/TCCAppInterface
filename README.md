@@ -1,2 +1,2 @@
 # Interface App TCC
-: iphone:
+:iphone:
